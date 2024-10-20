@@ -1,7 +1,7 @@
 # Shopping Cart Project
 
 ## Overview
-This project is a simple online shop that allows users to add items to a cart, increase or decrease quantities, remove items, and proceed with checkout. The application is built using JavaScript, with all functionality related to products, the cart, and checkout implemented in `script.js`. Optional functionality may be added by uncommenting sections in `front.js`.
+This simple online shop project allows users to add items to a cart, increase or decrease quantities, remove items, and proceed with checkout. The application is built using JavaScript, with all functionality related to products, the cart, and checkout implemented in `script.js`. Optional functionality may be added by uncommenting sections in `front.js`.
 
 ## Features
 - Add items to the cart: Clicking an item adds it to the cart and increases its quantity when clicked multiple times.
